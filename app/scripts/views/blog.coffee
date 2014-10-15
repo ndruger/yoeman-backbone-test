@@ -1,6 +1,6 @@
 'use strict';
 
-class Yo.Views.Blog extends Backbone.View
+class Backbonetest.Views.Blog extends Backbone.View
 
   template: JST['app/scripts/templates/blog.ejs']
 

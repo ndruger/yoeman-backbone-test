@@ -6,7 +6,7 @@ window.Backbonetest =
   init: ->
     'use strict'
     console.log 'Hello from Backbone!'
-    console.log(Yo.Views.Blog)
+    console.log(Backbonetest.Views.Blog)
 
 $ ->
   'use strict'

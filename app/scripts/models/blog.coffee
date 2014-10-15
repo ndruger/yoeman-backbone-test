@@ -1,6 +1,6 @@
 'use strict';
 
-class Yo.Models.Blog extends Backbone.Model
+class Backbonetest.Models.Blog extends Backbone.Model
   url: '',
 
   initialize: () ->
